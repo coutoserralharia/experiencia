@@ -1,0 +1,10 @@
+{
+  "name": "JGPVC Laser",
+  "short_name": "JGPVC Laser",
+  "start_url": "./dashboard.html",
+  "display": "standalone",
+  "background_color": "#0c0f12",
+  "theme_color": "#111417",
+  "lang": "pt-PT",
+  "icons": []
+}
